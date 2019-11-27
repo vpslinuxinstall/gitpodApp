@@ -1,4 +1,4 @@
-# [Hackerrank Tutorial](www.hackerrank.com)      
+# [Data structure and algorithm python](https://teamtreehouse.com/library/introduction-to-data-structures)            
 
 
 
